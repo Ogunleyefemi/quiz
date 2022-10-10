@@ -31,3 +31,19 @@ body{
     text-align: center;
     padding: 150px;
 }
+#options{
+    display: inline-flex;
+}
+#options button{
+    margin: 20px;
+}
+#options button:hover{
+    color: blue
+}
+.questions{
+    text-align: center;
+    padding: 200px;
+    margin: 50px;
+    font-weight: 800;
+    background-color: brown;
+}
