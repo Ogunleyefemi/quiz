@@ -3,6 +3,8 @@
     padding: 20px;
     text-transform: uppercase;
     color: black;
+    font-weight: 600;
+    font-style: italic;
 }
 .body{
     text-align: center;
@@ -17,4 +19,7 @@ h2{
     font-weight: 300;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: brown;
+}
+body{
+    background-color: burlywood;
 }
