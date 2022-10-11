@@ -54,6 +54,13 @@ body{
     font-weight: 800;
     background-color: rgb(37, 159, 212);
 }
-#q2{
+.question3{
+    text-align: center;
+    padding: 200px;
+    margin: 50px;
+    font-weight: 800;
+    background-color: rgb(23, 17, 197);
+}
+#q2,#q3{
     display: none;
 }

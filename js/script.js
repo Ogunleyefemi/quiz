@@ -2,5 +2,9 @@ $(document).ready(function(){
     $("#options").click(function(){
         $("#q2").show();
         $("#q1").hide();
+    });
+    $("#option").click(function(){
+        $("#q3").show();
+        $("#q2").hide();
     })
 })
