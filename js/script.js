@@ -19,4 +19,8 @@ $(document).ready(function(){
         $("#q6").show();
         $("#q5").hide();
     });
+    $("#option6").click(function(){
+        $(".lastpage").show();
+        $("#q6").hide();
+    });
 })
