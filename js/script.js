@@ -6,5 +6,9 @@ $(document).ready(function(){
     $("#option").click(function(){
         $("#q3").show();
         $("#q2").hide();
-    })
+    });
+    $("#option3").click(function(){
+        $("#q4").show();
+        $("#q3").hide();
+    });
 })
