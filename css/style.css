@@ -58,6 +58,14 @@ h2{
     font-weight: 800;
     background-color: rgb(23, 17, 197);
 }
-#q2,#q3,#q4,#q5,#q6,.lastpage{
+#q2,#q3,#q4,#q5,#q6{
+    display: none;
+}
+.lastpage{
+    text-align: center;
+    padding: 200px;
+    margin: 50px;
+    font-weight: 800;
+    font-style: inherit;
     display: none;
 }
