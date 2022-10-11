@@ -21,9 +21,6 @@ h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: brown;
 }
-body{
-    background-color: burlywood;
-}
 #login{
     border-radius: 30px;
 }
@@ -47,7 +44,7 @@ body{
     font-weight: 800;
     background-color: brown;
 }
-.question2{
+.question2,.question5{
     text-align: center;
     padding: 200px;
     margin: 50px;
@@ -61,6 +58,6 @@ body{
     font-weight: 800;
     background-color: rgb(23, 17, 197);
 }
-#q2,#q3,#q4{
+#q2,#q3,#q4,#q5{
     display: none;
 }

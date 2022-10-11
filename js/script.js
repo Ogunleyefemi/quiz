@@ -11,4 +11,8 @@ $(document).ready(function(){
         $("#q4").show();
         $("#q3").hide();
     });
+    $("#option4").click(function(){
+        $("#q5").show();
+        $("#q4").hide();
+    });
 })
