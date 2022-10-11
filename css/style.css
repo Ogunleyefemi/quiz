@@ -47,3 +47,13 @@ body{
     font-weight: 800;
     background-color: brown;
 }
+.question2{
+    text-align: center;
+    padding: 200px;
+    margin: 50px;
+    font-weight: 800;
+    background-color: rgb(37, 159, 212);
+}
+#q2{
+    display: none;
+}
