@@ -1,6 +1,6 @@
 let count = 0;
 function test(){
-  count++;
+  count+=1;
   console.log(count);
   $("#here").html(count);
 };
