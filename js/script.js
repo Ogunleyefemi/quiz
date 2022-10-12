@@ -2,6 +2,7 @@ let count = 0;
 function test(){
   count++;
   console.log(count);
+  $("#here").html(count);
 };
 $(document).ready(function(){
     $("#options").click(function(){
@@ -27,6 +28,8 @@ $(document).ready(function(){
     $("#option6").click(function(){
         $(".lastpage").show();
         $("#q6").hide();
+        $(".score").hide();
+
     });
     
 })

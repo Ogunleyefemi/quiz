@@ -69,3 +69,7 @@ h2{
     font-style: inherit;
     display: none;
 }
+.score{
+    text-align: center;
+    padding: 2px;
+}
