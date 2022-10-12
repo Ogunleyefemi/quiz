@@ -30,7 +30,11 @@ $(document).ready(function(){
         $(".lastpage").show();
         $("#q6").hide();
         $(".score").hide();
-
     });
+    $("#proceed").click(function(){
+        $(".final").show();
+        $(".lastpage").hide();
+    });
+    
     
 })
