@@ -3,6 +3,7 @@ function test(){
   count+=1;
   console.log(count);
   $("#here").html(count);
+  $("#mark").html(count);
 };
 $(document).ready(function(){
     $("#options").click(function(){
