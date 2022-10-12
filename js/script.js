@@ -1,3 +1,8 @@
+let count = 0;
+function test(){
+  count++;
+  console.log(count);
+};
 $(document).ready(function(){
     $("#options").click(function(){
         $("#q2").show();
@@ -23,4 +28,5 @@ $(document).ready(function(){
         $(".lastpage").show();
         $("#q6").hide();
     });
+    
 })
